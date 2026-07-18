@@ -101,7 +101,7 @@ Porta lógica = dispositivo que implementa uma função booleana em hardware.
 
 **Teorema de DeMorgan:**
 
-(A·B)' = A' + B'
+(A·B)' = A' + B'\
 (A+B)' = A'·B'
 
 Generalizando: para "quebrar" uma barra sobre uma expressão, troca-se AND↔OR e nega-se cada variável individualmente (a barra "se distribui" trocando o operador).
