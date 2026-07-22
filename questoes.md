@@ -15,10 +15,10 @@ In December 2024, Google's Willow chip became the first quantum processor to rea
 
 What is the main topic of the text?
 
-a) The history of Google's involvement in quantum computing since 2020.
-b) A quantum chip that proved adding more qubits could reduce, not increase, errors.
-c) The reasons why quantum computers are noisier than classical computers.
-d) A comparison between Google and other companies developing quantum chips.
+a) The history of Google's involvement in quantum computing since 2020.\\
+b) A quantum chip that proved adding more qubits could reduce, not increase, errors.\\
+c) The reasons why quantum computers are noisier than classical computers.\\
+d) A comparison between Google and other companies developing quantum chips.\\
 
 ---
 
@@ -27,10 +27,10 @@ Energy storage technology has advanced quickly in recent years. Solid-state batt
 
 According to the text, how do solid-state batteries compare to flow batteries?
 
-a) Solid-state batteries store energy for longer periods of time than flow batteries.
-b) Solid-state batteries are less energy-dense, but retain charge longer than flow batteries.
-c) Solid-state batteries are more energy-dense, but flow batteries retain charge for longer.
-d) Both technologies store the same amount of energy, but flow batteries charge faster.
+a) Solid-state batteries store energy for longer periods of time than flow batteries.\\
+b) Solid-state batteries are less energy-dense, but retain charge longer than flow batteries.\\
+c) Solid-state batteries are more energy-dense, but flow batteries retain charge for longer.\\
+d) Both technologies store the same amount of energy, but flow batteries charge faster.\\
 
 ---
 
@@ -39,10 +39,10 @@ NASA's Artemis II mission is scheduled to send four astronauts around the Moon, 
 
 Which option presents the words used to express an opinion about the Artemis II mission?
 
-a) "four astronauts" and "low Earth orbit"
-b) "extraordinarily significant" and "truly historic"
-c) "ten-day journey" and "lunar surface"
-d) "future Moon landing" and "Apollo program"
+a) "four astronauts" and "low Earth orbit"\\
+b) "extraordinarily significant" and "truly historic"\\
+c) "ten-day journey" and "lunar surface"\\
+d) "future Moon landing" and "Apollo program"\\
 
 ---
 
@@ -51,10 +51,10 @@ Humanoid robots have moved quickly from laboratory demonstrations to real factor
 
 What is the function of "However" in the text?
 
-a) To introduce an example that supports the previous idea.
-b) To present a contrasting idea to the progress described before it.
-c) To restate, in different words, what was said in the first sentence.
-d) To indicate the cause of the limited battery life mentioned later.
+a) To introduce an example that supports the previous idea.\\
+b) To present a contrasting idea to the progress described before it.\\
+c) To restate, in different words, what was said in the first sentence.\\
+d) To indicate the cause of the limited battery life mentioned later.\\
 
 ---
 
@@ -63,10 +63,10 @@ Archaeologists excavating the ancient site of Tel Kom Aziza, in Egypt's Nile Del
 
 According to the text, what specifically confirms the archaeological importance of Tel Kom Aziza?
 
-a) Its location in the Nile Delta region of Egypt.
-b) The presence of a Greco-Roman cemetery at the site.
-c) The wide variety of burial practices found across different periods.
-d) The fact that older settlements exist beneath the cemetery.
+a) Its location in the Nile Delta region of Egypt.\\
+b) The presence of a Greco-Roman cemetery at the site.\\
+c) The wide variety of burial practices found across different periods.\\
+d) The fact that older settlements exist beneath the cemetery.\\
 
 ---
 
@@ -75,10 +75,10 @@ A new generation of AI systems is now helping doctors detect cancer earlier than
 
 Which figure of speech is used to describe the AI technology in the text?
 
-a) Metaphor ("a second pair of eyes")
-b) Simile using "like" or "as"
-c) Antithesis (contrast of opposite ideas)
-d) Pleonasm (intentional redundancy)
+a) Metaphor ("a second pair of eyes")\\
+b) Simile using "like" or "as"\\
+c) Antithesis (contrast of opposite ideas)\\
+d) Pleonasm (intentional redundancy)\\
 
 ---
 
@@ -87,10 +87,10 @@ In a single year, researchers working with the Ocean Census initiative identifie
 
 What is the central idea conveyed by the text?
 
-a) A technical description of the equipment used during deep-sea expeditions.
-b) A celebration of new discoveries paired with humility about how much remains unknown.
-c) A critique of the funding methods used for ocean research projects.
-d) A comparison between space exploration and ocean exploration budgets.
+a) A technical description of the equipment used during deep-sea expeditions.\\
+b) A celebration of new discoveries paired with humility about how much remains unknown.\\
+c) A critique of the funding methods used for ocean research projects.\\
+d) A comparison between space exploration and ocean exploration budgets.\\
 
 ---
 
@@ -99,10 +99,10 @@ Cybercriminals are increasingly using artificial intelligence to make their atta
 
 Which word could replace "Additionally" without changing the meaning or cohesion of the text?
 
-a) However
-b) Furthermore
-c) Instead
-d) Therefore
+a) However\\
+b) Furthermore\\
+c) Instead\\
+d) Therefore\\
 
 ---
 
@@ -111,10 +111,10 @@ Recent research has focused on demonstrating that quantum computers can outperfo
 
 According to the text, what was the objective of the research described?
 
-a) To build the largest quantum computer ever constructed.
-b) To demonstrate quantum advantage by solving a problem intractable for classical computers.
-c) To replace classical supercomputers entirely with quantum alternatives.
-d) To reduce the manufacturing cost of quantum hardware components.
+a) To build the largest quantum computer ever constructed.\\
+b) To demonstrate quantum advantage by solving a problem intractable for classical computers.\\
+c) To replace classical supercomputers entirely with quantum alternatives.\\
+d) To reduce the manufacturing cost of quantum hardware components.\\
 
 ---
 
@@ -123,10 +123,10 @@ The United States is on track to add a record 86 gigawatts of new electricity ge
 
 What is the function of the highlighted clause in the text?
 
-a) It restricts which type of solar power the text is referring to.
-b) It adds extra, non-essential information about the growth of solar generation.
-c) It introduces a contrast between solar power and battery storage.
-d) It presents the main argument of the entire paragraph.
+a) It restricts which type of solar power the text is referring to.\\
+b) It adds extra, non-essential information about the growth of solar generation.\\
+c) It introduces a contrast between solar power and battery storage.\\
+d) It presents the main argument of the entire paragraph.\\
 
 ---
 
@@ -137,9 +137,9 @@ The year 2026 is shaping up to be an especially active one for space science. NA
 
 What is the main topic of the text?
 
-a) A single mission responsible for discovering new asteroids in 2026.
-b) Several major astronomical missions and observatories becoming active in 2026.
-c) A rivalry between NASA and the European Space Agency over funding.
+a) A single mission responsible for discovering new asteroids in 2026.\\
+b) Several major astronomical missions and observatories becoming active in 2026.\\
+c) A rivalry between NASA and the European Space Agency over funding.\\
 d) The technical specifications of the Vera C. Rubin Observatory's telescope.
 
 ---
@@ -149,9 +149,9 @@ Humanoid robots available in 2026 vary enormously in price and purpose. Unitree'
 
 According to the text, how does the price of the Unitree H1 compare to the price of Digit?
 
-a) The H1 costs roughly the same as Digit, since both are used in warehouses.
-b) The H1 is considerably cheaper than Digit, which is estimated at a higher price.
-c) The H1 is more expensive than Digit because it walks faster.
+a) The H1 costs roughly the same as Digit, since both are used in warehouses.\\
+b) The H1 is considerably cheaper than Digit, which is estimated at a higher price.\\
+c) The H1 is more expensive than Digit because it walks faster.\\
 d) The text does not provide enough information to compare their prices.
 
 ---
@@ -161,10 +161,10 @@ In West Norfolk, England, archaeologists announced the discovery of a remarkable
 
 Which option presents the words used to express an opinion about the hoard?
 
-a) "West Norfolk, England" and "two thousand years ago"
-b) "bronze carnyx" and "metal boar's head standard"
-c) "extraordinarily rare" and "most significant"
-d) "Iron Age Britain" and "ceremonial life"
+a) "West Norfolk, England" and "two thousand years ago"\\
+b) "bronze carnyx" and "metal boar's head standard"\\
+c) "extraordinarily rare" and "most significant"\\
+d) "Iron Age Britain" and "ceremonial life"\\
 
 ---
 
@@ -173,10 +173,10 @@ A new AI pathology system called PRET can recognize eighteen different types of 
 
 What is the function of "Therefore" in the text?
 
-a) It introduces a conclusion drawn from the accuracy results described before it.
-b) It presents an example of a hospital using the PRET system.
-c) It contrasts the system's accuracy with that of human specialists.
-d) It reformulates, in simpler words, what was said in the previous sentence.
+a) It introduces a conclusion drawn from the accuracy results described before it.\\
+b) It presents an example of a hospital using the PRET system.\\
+c) It contrasts the system's accuracy with that of human specialists.\\
+d) It reformulates, in simpler words, what was said in the previous sentence.\\
 
 ---
 
@@ -185,10 +185,10 @@ A team of sixteen specialists gathered for a week-long taxonomy workshop at the 
 
 According to the text, what specifically allowed the researchers to describe so many species in just one week?
 
-a) The use of new underwater photography equipment.
-b) Working together in a collaborative workshop instead of individually.
-c) A larger number of amphipod specimens than in previous years.
-d) Funding provided by the International Seabed Authority.
+a) The use of new underwater photography equipment.\\
+b) Working together in a collaborative workshop instead of individually.\\
+c) A larger number of amphipod specimens than in previous years.\\
+d) Funding provided by the International Seabed Authority.\\
 
 ---
 
@@ -197,10 +197,10 @@ Cybersecurity in 2026 increasingly resembles an arms race between attackers and 
 
 Which figures of speech are used to describe the cybersecurity landscape in the text?
 
-a) "arms race" and "battlefield"
-b) "artificial intelligence" and "industry report"
-c) "twenty-seven seconds" and "full access"
-d) "security teams" and "defenses"
+a) "arms race" and "battlefield"\\
+b) "artificial intelligence" and "industry report"\\
+c) "twenty-seven seconds" and "full access"\\
+d) "security teams" and "defenses"\\
 
 ---
 
@@ -209,10 +209,10 @@ In February 2025, Microsoft introduced Majorana 1, described as the world's firs
 
 What is the central idea conveyed by the text?
 
-a) Topological qubits have been proven to be a complete failure.
-b) The announcement was met with a mix of excitement and scientific caution.
-c) Microsoft abandoned its topological qubit research shortly after the announcement.
-d) All scientists immediately and unanimously accepted the chip's claims.
+a) Topological qubits have been proven to be a complete failure.\\
+b) The announcement was met with a mix of excitement and scientific caution.\\
+c) Microsoft abandoned its topological qubit research shortly after the announcement.\\
+d) All scientists immediately and unanimously accepted the chip's claims.\\
 
 ---
 
@@ -221,22 +221,22 @@ Solid-state batteries are gradually replacing some traditional lithium-ion desig
 
 Which word could replace "Consequently" without changing the meaning or cohesion of the text?
 
-a) Nevertheless
-b) As a result
-c) For instance
-d) In contrast
-
+a) Nevertheless\\
+b) As a result\\
+c) For instance\\
+d) In contrast\\
+\\
 ---
 
 **Questão 19**
 The Nancy Grace Roman Space Telescope, expected to launch later in 2026, was designed with a primary scientific objective: to help astronomers better understand dark matter and dark energy, the invisible forces believed to account for roughly 95 percent of the universe. To achieve this, the telescope will observe more than 100,000 gravitational lensing events.
 
 According to the text, what is the primary objective of the Roman Space Telescope's mission?
-
-a) To photograph the surface of Mars in high resolution.
-b) To improve scientific understanding of dark matter and dark energy.
-c) To replace the Hubble Space Telescope entirely.
-d) To search exclusively for signs of life on nearby exoplanets.
+\\
+a) To photograph the surface of Mars in high resolution.\\
+b) To improve scientific understanding of dark matter and dark energy.\\
+c) To replace the Hubble Space Telescope entirely.\\
+d) To search exclusively for signs of life on nearby exoplanets.\\
 
 ---
 
@@ -245,10 +245,10 @@ Boston Dynamics began shipping its electric version of Atlas to industrial partn
 
 What is the function of the highlighted clause in the text?
 
-a) It restricts Atlas to a single, specific model among several versions.
-b) It adds extra background information about Atlas's development history.
-c) It introduces a contrast between research and industrial deployment.
-d) It presents the main conclusion of the entire text.
+a) It restricts Atlas to a single, specific model among several versions.\\
+b) It adds extra background information about Atlas's development history.\\
+c) It introduces a contrast between research and industrial deployment.\\
+d) It presents the main conclusion of the entire text.\\
 
 ---
 
@@ -258,11 +258,11 @@ d) It presents the main conclusion of the entire text.
 January 2026 brought a wave of archaeological discoveries across Turkey, spanning almost a million years of human history. Researchers found new evidence suggesting that early humans lived in Anatolia much earlier than previously believed, while excavations at Neolithic sites uncovered a 7,500-year-old stone seal. Elsewhere, archaeologists identified an 8th-century BCE Phrygian royal tomb far from where such tombs were normally expected to be found.
 
 What is the main topic of the text?
-
-a) A single archaeological discovery made in Turkey in January 2026.
-b) A series of varied archaeological discoveries reshaping views of ancient Anatolia.
-c) A dispute between archaeologists over the dating of Neolithic seals.
-d) The construction techniques used to build Phrygian royal tombs.
+\\
+a) A single archaeological discovery made in Turkey in January 2026.\\
+b) A series of varied archaeological discoveries reshaping views of ancient Anatolia.\\
+c) A dispute between archaeologists over the dating of Neolithic seals.\\
+d) The construction techniques used to build Phrygian royal tombs.\\
 
 ---
 
@@ -271,10 +271,10 @@ Recent studies suggest that AI systems used in oncology can detect tumors in med
 
 According to the text, how does the diagnostic accuracy of the AI pathology system compare to that of human specialists?
 
-a) It is noticeably lower than that of the most experienced specialists.
-b) It rivals or exceeds that of the most experienced specialists in specific tasks.
-c) It cannot yet be compared, since no accuracy data has been published.
-d) It is roughly the same only for early-stage cancers, but lower for advanced ones.
+a) It is noticeably lower than that of the most experienced specialists.\\
+b) It rivals or exceeds that of the most experienced specialists in specific tasks.\\
+c) It cannot yet be compared, since no accuracy data has been published.\\
+d) It is roughly the same only for early-stage cancers, but lower for advanced ones.\\
 
 ---
 
@@ -283,11 +283,11 @@ Among the newest deep-sea species described by scientists are Iskra's glitter wo
 
 Which option presents the words used to express an opinion in the text?
 
-a) "4,000 meters" and "deep-sea species"
-b) "absolutely fascinating" and "prestigious"
-c) "Elven abyss tunicate" and "Iskra's glitter worm"
-d) "taxonomic work" and "lightless environments"
-
+a) "4,000 meters" and "deep-sea species"\\
+b) "absolutely fascinating" and "prestigious"\\
+c) "Elven abyss tunicate" and "Iskra's glitter worm"\\
+d) "taxonomic work" and "lightless environments"\\
+\\
 ---
 
 **Questão 24**
@@ -331,10 +331,10 @@ Despite intense competition among nations to achieve major milestones in space e
 
 What is the central idea conveyed by the text?
 
-a) Space exploration in 2026 is defined purely by competition between nations.
-b) International missions in 2026 combine national rivalry with genuine scientific cooperation.
-c) NASA has stopped collaborating with other countries' space agencies.
-d) Only wealthy nations are capable of contributing to space missions in 2026.
+a) Space exploration in 2026 is defined purely by competition between nations.\\
+b) International missions in 2026 combine national rivalry with genuine scientific cooperation.\\
+c) NASA has stopped collaborating with other countries' space agencies.\\
+d) Only wealthy nations are capable of contributing to space missions in 2026.\\
 
 ---
 
@@ -343,10 +343,10 @@ Humanoid robots such as Figure 03 are now being produced at a rate of roughly on
 
 Which expression could replace "Despite this" without changing the meaning or cohesion of the text?
 
-a) As a result of this
-b) Even so
-c) For this reason
-d) In the same way
+a) As a result of this\\
+b) Even so\\
+c) For this reason\\
+d) In the same way\\
 
 ---
 
@@ -355,10 +355,10 @@ A team of researchers set out to investigate whether dense tropical forest in th
 
 According to the text, what was the objective of the research described?
 
-a) To measure how quickly tropical forests regrow after deforestation.
-b) To detect signs of past human activity hidden beneath dense forest canopy.
-c) To develop a new type of LIDAR scanning equipment.
-d) To relocate the modern population currently living in the Chocó region.
+a) To measure how quickly tropical forests regrow after deforestation.\\
+b) To detect signs of past human activity hidden beneath dense forest canopy.\\
+c) To develop a new type of LIDAR scanning equipment.\\
+d) To relocate the modern population currently living in the Chocó region.\\
 
 ---
 
@@ -367,10 +367,10 @@ A Mayo Clinic research team has developed an AI system capable of detecting panc
 
 What is the function of the highlighted clause in the text?
 
-a) It restricts the AI system to only one specific hospital.
-b) It adds extra information about how the CT scans used by the system were originally obtained.
-c) It introduces a contrast between the AI system and human radiologists.
-d) It presents the main conclusion drawn from the clinical trial results.
+a) It restricts the AI system to only one specific hospital.\\
+b) It adds extra information about how the CT scans used by the system were originally obtained.\\
+c) It introduces a contrast between the AI system and human radiologists.\\
+d) It presents the main conclusion drawn from the clinical trial results.\\
 
 ---
 
@@ -381,10 +381,10 @@ During a recent deep-sea expedition off the coast of Brazil, researchers aboard 
 
 What is the main topic of the text?
 
-a) The technical specifications of the research vessel Falkor (too).
-b) A deep-sea expedition off Brazil that filmed a rare octopus and found new species.
-c) A comparison between marine life in Brazil and other South American countries.
-d) The life cycle of amphipod crustaceans in the South Atlantic Ocean.
+a) The technical specifications of the research vessel Falkor (too).\\
+b) A deep-sea expedition off Brazil that filmed a rare octopus and found new species.\\
+c) A comparison between marine life in Brazil and other South American countries.\\
+d) The life cycle of amphipod crustaceans in the South Atlantic Ocean.\\
 
 ---
 
@@ -393,10 +393,10 @@ According to a recent industry threat report, major supply chain and third-party
 
 According to the text, how does the growth in supply chain breaches compare to the growth in attacks on public-facing applications?
 
-a) Both categories grew at exactly the same rate over the past five years.
-b) Supply chain breaches grew more slowly than attacks on public-facing applications.
-c) Supply chain breaches grew considerably faster than attacks on public-facing applications.
-d) Attacks on public-facing applications decreased while supply chain breaches increased.
+a) Both categories grew at exactly the same rate over the past five years.\\
+b) Supply chain breaches grew more slowly than attacks on public-facing applications.\\
+c) Supply chain breaches grew considerably faster than attacks on public-facing applications.\\
+d) Attacks on public-facing applications decreased while supply chain breaches increased.\\
 
 ---
 
@@ -405,10 +405,10 @@ Physicists at Oxford recently created a new type of quantum state, built from co
 
 Which option presents the words used to express an opinion about the achievement?
 
-a) "quantum state" and "components"
-b) "remarkable" and "unexpected"
-c) "Oxford" and "laboratory"
-d) "decades-old ideas" and "quantum mechanics"
+a) "quantum state" and "components"\\
+b) "remarkable" and "unexpected"\\
+c) "Oxford" and "laboratory"\\
+d) "decades-old ideas" and "quantum mechanics"\\
 
 ---
 
@@ -417,10 +417,10 @@ Green hydrogen is gaining attention as a way to decarbonize industries that are 
 
 What is the function of "In addition" in the text?
 
-a) It introduces information that adds to, rather than contrasts with, the previous sentence.
-b) It presents a conclusion drawn from the previous sentence.
-c) It introduces an exception to what was stated before it.
-d) It reformulates, in simpler terms, the previous sentence.
+a) It introduces information that adds to, rather than contrasts with, the previous sentence.\\
+b) It presents a conclusion drawn from the previous sentence.\\
+c) It introduces an exception to what was stated before it.\\
+d) It reformulates, in simpler terms, the previous sentence.\\
 
 ---
 
@@ -429,10 +429,10 @@ The European Space Agency's Hera mission arrived at the Didymos asteroid system 
 
 According to the text, what specifically will allow scientists to evaluate the effectiveness of asteroid deflection?
 
-a) The number of instruments carried aboard the Hera spacecraft.
-b) Hera's detailed measurements of Dimorphos's orbit and structure after the impact.
-c) The total travel time between Earth and the Didymos system.
-d) A comparison between Hera and other unrelated asteroid missions.
+a) The number of instruments carried aboard the Hera spacecraft.\\
+b) Hera's detailed measurements of Dimorphos's orbit and structure after the impact.\\
+c) The total travel time between Earth and the Didymos system.\\
+d) A comparison between Hera and other unrelated asteroid missions.\\
 
 ---
 
@@ -441,10 +441,10 @@ NVIDIA's Isaac GR00T foundation model has been described by robotics researchers
 
 Which figure of speech is used to describe the NVIDIA foundation model in the text?
 
-a) Simile using "like" or "as"
-b) Metaphor ("the brain behind a growing number of humanoid robots")
-c) Antithesis (contrast of opposite ideas)
-d) Metonymy (using an associated term instead of the real one)
+a) Simile using "like" or "as"\\
+b) Metaphor ("the brain behind a growing number of humanoid robots")\\
+c) Antithesis (contrast of opposite ideas)\\
+d) Metonymy (using an associated term instead of the real one)\\
 
 ---
 
@@ -453,10 +453,10 @@ In Upper Egypt, archaeologists uncovered a Byzantine-era monastic residential co
 
 What is the central idea conveyed by the text, considering its tone?
 
-a) A dry, purely technical inventory of building materials found at the site.
-b) A discovery that offers meaningful insight into early Christian monastic life.
-c) A criticism of how the excavation was funded and organized.
-d) A comparison between Byzantine and Roman architectural styles.
+a) A dry, purely technical inventory of building materials found at the site.\\
+b) A discovery that offers meaningful insight into early Christian monastic life.\\
+c) A criticism of how the excavation was funded and organized.\\
+d) A comparison between Byzantine and Roman architectural styles\\
 
 ---
 
@@ -465,10 +465,10 @@ AI-driven drug discovery pipelines have accelerated the search for treatments ta
 
 Which expression could replace "As a result" without changing the meaning or cohesion of the text?
 
-a) On the other hand
-b) Consequently
-c) For example
-d) In other words
+a) On the other hand\\
+b) Consequently\\
+c) For example\\
+d) In other words\\
 
 ---
 
@@ -477,10 +477,10 @@ The "One Thousand Reasons" project, part of the International Seabed Authority's
 
 According to the text, what is the objective of the "One Thousand Reasons" project?
 
-a) To formally describe 1,000 new marine species from the deep seabed by the end of the decade.
-b) To build 1,000 new research vessels for ocean exploration.
-c) To train 1,000 new taxonomists across different universities.
-d) To map the entire seabed of the Pacific Ocean in high resolution.
+a) To formally describe 1,000 new marine species from the deep seabed by the end of the decade.\\
+b) To build 1,000 new research vessels for ocean exploration.\\
+c) To train 1,000 new taxonomists across different universities.\\
+d) To map the entire seabed of the Pacific Ocean in high resolution.\\
 
 ---
 
@@ -489,10 +489,10 @@ Security researchers have grown increasingly concerned about so-called "AI-washi
 
 What is the function of the highlighted clause in the text?
 
-a) It restricts "AI-washing" to a single specific company.
-b) It adds extra information about the market conditions in which the trend has emerged.
-c) It introduces a contrast between vendors and customers.
-d) It presents the main recommendation given by analysts.
+a) It restricts "AI-washing" to a single specific company.\\
+b) It adds extra information about the market conditions in which the trend has emerged.\\
+c) It introduces a contrast between vendors and customers.\\
+d) It presents the main recommendation given by analysts.\\
 
 \newpage
 
