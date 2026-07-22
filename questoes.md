@@ -19,7 +19,6 @@ a) The history of Google's involvement in quantum computing since 2020.\\
 b) A quantum chip that proved adding more qubits could reduce, not increase, errors.\\
 c) The reasons why quantum computers are noisier than classical computers.\\
 d) A comparison between Google and other companies developing quantum chips.\\
-
 ---
 
 **Questão 2**
@@ -31,7 +30,6 @@ a) Solid-state batteries store energy for longer periods of time than flow batte
 b) Solid-state batteries are less energy-dense, but retain charge longer than flow batteries.\\
 c) Solid-state batteries are more energy-dense, but flow batteries retain charge for longer.\\
 d) Both technologies store the same amount of energy, but flow batteries charge faster.\\
-
 ---
 
 **Questão 3**
@@ -43,7 +41,6 @@ a) "four astronauts" and "low Earth orbit"\\
 b) "extraordinarily significant" and "truly historic"\\
 c) "ten-day journey" and "lunar surface"\\
 d) "future Moon landing" and "Apollo program"\\
-
 ---
 
 **Questão 4**
@@ -55,7 +52,6 @@ a) To introduce an example that supports the previous idea.\\
 b) To present a contrasting idea to the progress described before it.\\
 c) To restate, in different words, what was said in the first sentence.\\
 d) To indicate the cause of the limited battery life mentioned later.\\
-
 ---
 
 **Questão 5**
@@ -67,7 +63,6 @@ a) Its location in the Nile Delta region of Egypt.\\
 b) The presence of a Greco-Roman cemetery at the site.\\
 c) The wide variety of burial practices found across different periods.\\
 d) The fact that older settlements exist beneath the cemetery.\\
-
 ---
 
 **Questão 6**
@@ -79,7 +74,6 @@ a) Metaphor ("a second pair of eyes")\\
 b) Simile using "like" or "as"\\
 c) Antithesis (contrast of opposite ideas)\\
 d) Pleonasm (intentional redundancy)\\
-
 ---
 
 **Questão 7**
@@ -91,7 +85,6 @@ a) A technical description of the equipment used during deep-sea expeditions.\\
 b) A celebration of new discoveries paired with humility about how much remains unknown.\\
 c) A critique of the funding methods used for ocean research projects.\\
 d) A comparison between space exploration and ocean exploration budgets.\\
-
 ---
 
 **Questão 8**
@@ -103,7 +96,6 @@ a) However\\
 b) Furthermore\\
 c) Instead\\
 d) Therefore\\
-
 ---
 
 **Questão 9**
@@ -115,7 +107,6 @@ a) To build the largest quantum computer ever constructed.\\
 b) To demonstrate quantum advantage by solving a problem intractable for classical computers.\\
 c) To replace classical supercomputers entirely with quantum alternatives.\\
 d) To reduce the manufacturing cost of quantum hardware components.\\
-
 ---
 
 **Questão 10**
@@ -127,7 +118,6 @@ a) It restricts which type of solar power the text is referring to.\\
 b) It adds extra, non-essential information about the growth of solar generation.\\
 c) It introduces a contrast between solar power and battery storage.\\
 d) It presents the main argument of the entire paragraph.\\
-
 ---
 
 ## Parte 2 (Questões 11–20)
@@ -165,7 +155,6 @@ a) "West Norfolk, England" and "two thousand years ago"\\
 b) "bronze carnyx" and "metal boar's head standard"\\
 c) "extraordinarily rare" and "most significant"\\
 d) "Iron Age Britain" and "ceremonial life"\\
-
 ---
 
 **Questão 14**
@@ -177,7 +166,6 @@ a) It introduces a conclusion drawn from the accuracy results described before i
 b) It presents an example of a hospital using the PRET system.\\
 c) It contrasts the system's accuracy with that of human specialists.\\
 d) It reformulates, in simpler words, what was said in the previous sentence.\\
-
 ---
 
 **Questão 15**
@@ -189,7 +177,6 @@ a) The use of new underwater photography equipment.\\
 b) Working together in a collaborative workshop instead of individually.\\
 c) A larger number of amphipod specimens than in previous years.\\
 d) Funding provided by the International Seabed Authority.\\
-
 ---
 
 **Questão 16**
@@ -201,7 +188,6 @@ a) "arms race" and "battlefield"\\
 b) "artificial intelligence" and "industry report"\\
 c) "twenty-seven seconds" and "full access"\\
 d) "security teams" and "defenses"\\
-
 ---
 
 **Questão 17**
@@ -213,7 +199,6 @@ a) Topological qubits have been proven to be a complete failure.\\
 b) The announcement was met with a mix of excitement and scientific caution.\\
 c) Microsoft abandoned its topological qubit research shortly after the announcement.\\
 d) All scientists immediately and unanimously accepted the chip's claims.\\
-
 ---
 
 **Questão 18**
@@ -237,7 +222,6 @@ a) To photograph the surface of Mars in high resolution.\\
 b) To improve scientific understanding of dark matter and dark energy.\\
 c) To replace the Hubble Space Telescope entirely.\\
 d) To search exclusively for signs of life on nearby exoplanets.\\
-
 ---
 
 **Questão 20**
@@ -249,7 +233,6 @@ a) It restricts Atlas to a single, specific model among several versions.\\
 b) It adds extra background information about Atlas's development history.\\
 c) It introduces a contrast between research and industrial deployment.\\
 d) It presents the main conclusion of the entire text.\\
-
 ---
 
 ## Parte 3 (Questões 21–30)
@@ -263,7 +246,6 @@ a) A single archaeological discovery made in Turkey in January 2026.\\
 b) A series of varied archaeological discoveries reshaping views of ancient Anatolia.\\
 c) A dispute between archaeologists over the dating of Neolithic seals.\\
 d) The construction techniques used to build Phrygian royal tombs.\\
-
 ---
 
 **Questão 22**
@@ -275,7 +257,6 @@ a) It is noticeably lower than that of the most experienced specialists.\\
 b) It rivals or exceeds that of the most experienced specialists in specific tasks.\\
 c) It cannot yet be compared, since no accuracy data has been published.\\
 d) It is roughly the same only for early-stage cancers, but lower for advanced ones.\\
-
 ---
 
 **Questão 23**
@@ -335,7 +316,6 @@ a) Space exploration in 2026 is defined purely by competition between nations.\\
 b) International missions in 2026 combine national rivalry with genuine scientific cooperation.\\
 c) NASA has stopped collaborating with other countries' space agencies.\\
 d) Only wealthy nations are capable of contributing to space missions in 2026.\\
-
 ---
 
 **Questão 28**
@@ -347,7 +327,6 @@ a) As a result of this\\
 b) Even so\\
 c) For this reason\\
 d) In the same way\\
-
 ---
 
 **Questão 29**
@@ -359,7 +338,6 @@ a) To measure how quickly tropical forests regrow after deforestation.\\
 b) To detect signs of past human activity hidden beneath dense forest canopy.\\
 c) To develop a new type of LIDAR scanning equipment.\\
 d) To relocate the modern population currently living in the Chocó region.\\
-
 ---
 
 **Questão 30**
@@ -371,7 +349,6 @@ a) It restricts the AI system to only one specific hospital.\\
 b) It adds extra information about how the CT scans used by the system were originally obtained.\\
 c) It introduces a contrast between the AI system and human radiologists.\\
 d) It presents the main conclusion drawn from the clinical trial results.\\
-
 ---
 
 ## Parte 4 (Questões 31–40)
@@ -385,7 +362,6 @@ a) The technical specifications of the research vessel Falkor (too).\\
 b) A deep-sea expedition off Brazil that filmed a rare octopus and found new species.\\
 c) A comparison between marine life in Brazil and other South American countries.\\
 d) The life cycle of amphipod crustaceans in the South Atlantic Ocean.\\
-
 ---
 
 **Questão 32**
@@ -397,7 +373,6 @@ a) Both categories grew at exactly the same rate over the past five years.\\
 b) Supply chain breaches grew more slowly than attacks on public-facing applications.\\
 c) Supply chain breaches grew considerably faster than attacks on public-facing applications.\\
 d) Attacks on public-facing applications decreased while supply chain breaches increased.\\
-
 ---
 
 **Questão 33**
@@ -409,7 +384,6 @@ a) "quantum state" and "components"\\
 b) "remarkable" and "unexpected"\\
 c) "Oxford" and "laboratory"\\
 d) "decades-old ideas" and "quantum mechanics"\\
-
 ---
 
 **Questão 34**
@@ -421,7 +395,6 @@ a) It introduces information that adds to, rather than contrasts with, the previ
 b) It presents a conclusion drawn from the previous sentence.\\
 c) It introduces an exception to what was stated before it.\\
 d) It reformulates, in simpler terms, the previous sentence.\\
-
 ---
 
 **Questão 35**
@@ -433,7 +406,6 @@ a) The number of instruments carried aboard the Hera spacecraft.\\
 b) Hera's detailed measurements of Dimorphos's orbit and structure after the impact.\\
 c) The total travel time between Earth and the Didymos system.\\
 d) A comparison between Hera and other unrelated asteroid missions.\\
-
 ---
 
 **Questão 36**
@@ -445,7 +417,6 @@ a) Simile using "like" or "as"\\
 b) Metaphor ("the brain behind a growing number of humanoid robots")\\
 c) Antithesis (contrast of opposite ideas)\\
 d) Metonymy (using an associated term instead of the real one)\\
-
 ---
 
 **Questão 37**
@@ -457,7 +428,6 @@ a) A dry, purely technical inventory of building materials found at the site.\\
 b) A discovery that offers meaningful insight into early Christian monastic life.\\
 c) A criticism of how the excavation was funded and organized.\\
 d) A comparison between Byzantine and Roman architectural styles\\
-
 ---
 
 **Questão 38**
@@ -469,7 +439,6 @@ a) On the other hand\\
 b) Consequently\\
 c) For example\\
 d) In other words\\
-
 ---
 
 **Questão 39**
@@ -481,7 +450,6 @@ a) To formally describe 1,000 new marine species from the deep seabed by the end
 b) To build 1,000 new research vessels for ocean exploration.\\
 c) To train 1,000 new taxonomists across different universities.\\
 d) To map the entire seabed of the Pacific Ocean in high resolution.\\
-
 ---
 
 **Questão 40**
@@ -493,7 +461,6 @@ a) It restricts "AI-washing" to a single specific company.\\
 b) It adds extra information about the market conditions in which the trend has emerged.\\
 c) It introduces a contrast between vendors and customers.\\
 d) It presents the main recommendation given by analysts.\\
-
 \newpage
 
 # Gabarito comentado
